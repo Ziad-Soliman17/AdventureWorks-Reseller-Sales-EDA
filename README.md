@@ -2,8 +2,8 @@
 
 # Project Overview
 SQL-Based EDA on AdventureWorks DW reseller channel - analysing 60K+ transactions across sales trends, product profitability, reseller performance, and geographic distribution using SQL Server
-covering data quality validation, statistical profiling and sales perofrmance analysis
-**Tool**: SQL Server(T-SQL) 
+covering data quality validation, statistical profiling and sales perofrmance analysis  
+**Tool**: SQL Server(T-SQL)  
 **Dataset**: AdventureWorksDW2025 -FactResellerSales and related dimension tables
 **Source** [Microsoft Learn](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
 **EDA SQL File** Attached in files
